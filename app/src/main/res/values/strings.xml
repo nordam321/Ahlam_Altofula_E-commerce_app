@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">ahlam_altofula_project</string>
+
+    <!--    main page products add-->
+    <string-array name="popular_products_title">
+        <item>Playful Cotton Delight</item>
+        <item>Adventure-Ready Explorer</item>
+        <item>Cute formal set</item>
+        <item>Formal jeans set</item>
+        <item>Winter formal set</item>
+        <item>Girls robe</item>
+        <item>Pink Girls robe</item>
+        <item>Winter Girls robe</item>
+        <item>Special Girls robe</item>
+    </string-array>
+    <string-array name="popular_products_description">
+        <item>Age : 6-10\nColors : black,ashen,brown,cream\nDress your little one in this charming playtime set! Crafted from soft, breathable cotton, this ensemble features vibrant colors and playful patterns. Perfect for active days filled with laughter and exploration.</item>
+        <item>Age : 6-10\nColors : black,ashen,brown,cream\nEncourage a spirit of adventure with our explorer set! Durable and practical, this ensemble includes cargo shorts,  and a hat for sun protection. Perfect for outdoor escapades and discovering the world.</item>
+        <item>Age : 6-10\nColors : black,ashen,brown,cream\nMake every moment special with our elegant occasion attire for children. This set combines sophistication with comfort, featuring a dainty blouse paired with tailored trousers. Ideal for family gatherings and celebrations.</item>
+        <item>Age : 6-10\nColors : black,ashen\nElevate your children style with our trendy denim delight. This set includes a fashionable denim jacket paired with comfortable jeans. Versatile enough for both casual outings and special occasions, it is a must-have for any fashion-forward kid.</item>
+        <item>Age : 6-10\nColors : black,ashen,brown,cream\nEnjoy the winter season with our cozy clothing designed for warmth and style. Set includes a velor jacket and matching leggings. Your baby will be comfortable and stylish during cold days</item>
+        <item>Age : 6-10\nColors : black,ashen,brown,cream\nDress your little one in this charming playtime set! Crafted from soft, breathable cotton, this ensemble features vibrant colors and playful patterns. Perfect for active days filled with laughter and exploration.</item>
+        <item>Age : 6-10\nColors : black,ashen,brown,cream\nEncourage a spirit of adventure with our explorer set! Durable and practical, this ensemble includes cargo shorts,  and a hat for sun protection. Perfect for outdoor escapades and discovering the world.</item>
+        <item>Age : 6-10\nColors : black,ashen,brown,cream\nMake every moment special with our elegant occasion attire for children. This set combines sophistication with comfort, featuring a dainty blouse paired with tailored trousers. Ideal for family gatherings and celebrations.</item>
+        <item>Age : 6-10\nColors : black,ashen\nElevate your children style with our trendy denim delight. This set includes a fashionable denim jacket paired with comfortable jeans. Versatile enough for both casual outings and special occasions, it is a must-have for any fashion-forward kid.</item>
+    </string-array>
+    <integer-array name="popular_products_price">
+        <item>15</item>
+        <item>15</item>
+        <item>18</item>
+        <item>16</item>
+        <item>20</item>
+        <item>13</item>
+        <item>14</item>
+        <item>16</item>
+        <item>15</item>
+    </integer-array>
+
+<!--    girl products add-->
+    <string-array name="girl_products_title">
+        <item>Girls robe</item>
+        <item>Pink Girls robe</item>
+        <item>Winter Girls robe</item>
+        <item>Special Girls robe</item>
+        <item>Winter Girls robe</item>
+        <item>Special Girls robe</item>
+        <item>Special Girls robe</item>
+    </string-array>
+    <string-array name="girl_products_description">
+        <item>Age : 6-10\nColors : black,ashen,brown,cream\nDress your little one in this charming playtime set! Crafted from soft, breathable cotton, this ensemble features vibrant colors and playful patterns. Perfect for active days filled with laughter and exploration.</item>
+        <item>Age : 6-10\nColors : black,ashen,brown,cream\nEncourage a spirit of adventure with our explorer set! Durable and practical, this ensemble includes cargo shorts,  and a hat for sun protection. Perfect for outdoor escapades and discovering the world.</item>
+        <item>Age : 6-10\nColors : black,ashen,brown,cream\nMake every moment special with our elegant occasion attire for children. This set combines sophistication with comfort, featuring a dainty blouse paired with tailored trousers. Ideal for family gatherings and celebrations.</item>
+        <item>Age : 6-10\nColors : black,ashen\nElevate your children style with our trendy denim delight. This set includes a fashionable denim jacket paired with comfortable jeans. Versatile enough for both casual outings and special occasions, it is a must-have for any fashion-forward kid.</item>
+        <item>Age : 6-10\nColors : black,ashen,brown,cream\nDress your little one in this charming playtime set! Crafted from soft, breathable cotton, this ensemble features vibrant colors and playful patterns. Perfect for active days filled with laughter and exploration.</item>
+        <item>Age : 6-10\nColors : black,ashen,brown,cream\nEncourage a spirit of adventure with our explorer set! Durable and practical, this ensemble includes cargo shorts,  and a hat for sun protection. Perfect for outdoor escapades and discovering the world.</item>
+        <item>Age : 6-10\nColors : black,ashen,brown,cream\nMake every moment special with our elegant occasion attire for children. This set combines sophistication with comfort, featuring a dainty blouse paired with tailored trousers. Ideal for family gatherings and celebrations.</item>
+    </string-array>
+    <integer-array name="girl_products_price">
+        <item>20</item>
+        <item>18</item>
+        <item>16</item>
+        <item>16</item>
+        <item>18</item>
+        <item>16</item>
+        <item>16</item>
+    </integer-array>
+
+    <!--    boy products add-->
+    <string-array name="boy_products_title">
+        <item>Playful Cotton Delight</item>
+        <item>Adventure-Ready Explorer</item>
+        <item>Cute formal set</item>
+        <item>Formal jeans set</item>
+        <item>Winter formal set</item>
+        <item>Special Winter set</item>
+        <item>Distinctive formal set</item>
+
+    </string-array>
+    <string-array name="boy_products_description">
+        <item>Age : 6-10\nColors : black,ashen,brown,cream\nDress your little one in this charming playtime set! Crafted from soft, breathable cotton, this ensemble features vibrant colors and playful patterns. Perfect for active days filled with laughter and exploration.</item>
+        <item>Age : 6-10\nColors : black,ashen,brown,cream\nEncourage a spirit of adventure with our explorer set! Durable and practical, this ensemble includes cargo shorts,  and a hat for sun protection. Perfect for outdoor escapades and discovering the world.</item>
+        <item>Age : 6-10\nColors : black,ashen,brown,cream\nMake every moment special with our elegant occasion attire for children. This set combines sophistication with comfort, featuring a dainty blouse paired with tailored trousers. Ideal for family gatherings and celebrations.</item>
+        <item>Age : 6-10\nColors : black,ashen\nElevate your children style with our trendy denim delight. This set includes a fashionable denim jacket paired with comfortable jeans. Versatile enough for both casual outings and special occasions, it is a must-have for any fashion-forward kid.</item>
+        <item>Age : 6-10\nColors : black,ashen,brown,cream\nEnjoy the winter season with our cozy clothing designed for warmth and style. Set includes a velor jacket and matching leggings. Your baby will be comfortable and stylish during cold days</item>
+        <item>Age : 6-10\nColors : black,ashen,brown,cream\nEnjoy the winter season with our cozy clothing designed for warmth and style. The set includes a velvet jacket that can be worn inside or out. You will have two styles of jacket, and matching wide trousers. Your child will be comfortable and stylish during cold days</item>
+        <item>Age : 6-10\nColors : black,ashen,cream\nMake every moment special with our elegant occasion attire for children. This set combines sophistication with comfort, featuring a dainty blouse paired with tailored trousers. Ideal for family gatherings and celebrations.</item>
+
+    </string-array>
+    <integer-array name="boy_products_price">
+        <item>15</item>
+        <item>15</item>
+        <item>18</item>
+        <item>16</item>
+        <item>20</item>
+        <item>22</item>
+        <item>18</item>
+    </integer-array>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

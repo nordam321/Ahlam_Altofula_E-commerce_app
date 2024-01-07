@@ -1,0 +1,27 @@
+package com.AhlamAltofula.ahlam_altofula_project.Models;
+
+public class cart_products_model {
+    String title;
+    int price;
+    int pic;
+
+
+    public cart_products_model(String title, int price, int pic) {
+        this.title = title;
+        this.price = price;
+        this.pic = pic;
+    }
+
+    public String getTitle() {
+        return title;
+    }
+
+    public int getPrice() {
+        return price;
+    }
+
+    public int getPic() {
+        return pic;
+    }
+
+}
